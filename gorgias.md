@@ -138,7 +138,7 @@ Gorgias' prior admission that rhetoricians have expertise in morality, to infer 
 must be moral and therefore must behave morally. But this contradicts Gorgias' earlier assertion
 that rhetoricians can behave immorally.
 
-## Rhetoric as a branch of flattery; doing what one wants
+## Rhetoric as a branch of flattery
 
 Having defeated Gorgias, Socrates continues his dialogue with Gorgias' young student Polus. In this
 dialogue, he begins to show his own thoughts about rhetoric, describing it as a branch of flattery,
@@ -155,10 +155,15 @@ asks Socrates to say what kind of expertise rhetoric is. The response is that rh
 of expertise at all, but is an "experiential knack".
 
 Rhetoric, so claims Socrates, is a branch of a more general knack---flattery (461c--e). As with
-other branches of flattery---such as cooking (properly *opsopoiia*, on which more later),
+other branches of flattery---such as cooking[^1] (properly *opsopoiia*, on which more later),
 ornamentation (cosmetics), and sophistry---it is a knack at producing pleasure and gratification.
 The word 'knack' is a translation of *emperia*. See the [Glossary](#glossary-of-greek-terms) for the
 definition. 
+
+[^1]: If this seems questionable, note that 'cooking' is an approximate translation of *opsopoiia*,
+    referring to the preparation of *opson*, a 'relish' that would be served with staple
+    cereal-based foods (*sitos*). By relish is meant something that provides flavour, such as
+    cheese, meat, or fish. These were often considered indulgent luxuries.
 
 To expand on this, Socrates explains that there are, in essence, two provinces of expertise (464b):
 the body and the mind/soul (*psyche*). The broad area of expertise that pertains to mind is
@@ -166,15 +171,28 @@ statesmanship. It has two forms: the legislative process and the administration 
 corresponding areas of expertise that pertain to the body are gymnastics (exercise) and medicine.
 
 This division my seem reductive, particular as it concerns the mind, but it shows that Socrates sees
-statesmanship as the overarching framework for addressing the needs of the psyche. Philosophy, as an area of expertise, falls within this framework as the foundation for statesmanship.
+statesmanship as the overarching framework for addressing the needs of the psyche. Philosophy, as an
+area of expertise, falls within this framework as the foundation for statesmanship.
 
-What each branch expertise aims for is what's best for the body or the mind, unlike knacks which are
-concerned with immediate pleasure.
+What each branch expertise aims for is what's best for the body or the mind, unlike a knack which is
+concerned with immediate pleasure (464e) and which "lacks rational understanding either of the
+object of its attentions or of the nature of the things it dispenses (and so it can't explain the
+reason why anything happens)" also translated as "it has no account to give of the real nature of
+the things it applies, and so cannot tell the cause of any of them" (465a).
 
-If this seems questionable, note that 'cooking' is an approximate translation of *opsopoiia*,
-referring to the preparation of *opson*, a 'relish' that would be served with staple cereal-based
-foods (*sitos*). By relish is meant something that provides flavour, such as cheese, meat, or fish.
-These were often considered indulgent luxuries.
+This chunk of text is dense and not easy to understand. I'll try to interpret this by considering
+the example of cooking. The object of its attentions is the body. As I understand it, Socrates'
+criticism is that this knack (1) has no systematic theory concerning the object of its attentions
+(the body), (2) has no systematic theory concerning what it provides or produces (food, pleasant
+tastes), and so (3) cannot explain the cause by which its actions produce the effects they do.
+
+I struggle with this argument. Certainly a cook who merely follows a recipe will not have (or need
+not have) an understand of the body, of the food they produce, or of why their food produces effects
+on the body. A more experienced cook will have an (empirical) understanding of how combinations of
+spices, say, will effect the flavour of their product. This could be considered a systematic theory.
+Of course, this still may not be in harmony with Socrates' idea that a *tekhne* must have the good
+(*to agathon*) as its aim. If cooking has no theory for how its methods produce the good, then it is
+not a *tekhne*.
 
 ## Glossary of Greek terms
 
@@ -185,7 +203,9 @@ These were often considered indulgent luxuries.
   and courage. It came to denote inner qualities akin to our modern notion of moral virtue. Both
   meanings exist simultaneously in Plato, albeit with a strong emphasis on the moral connotation.
 * *emperia* (noun): knack. An experience or practical skill derived from trial and error or
-  'habituation', often without a deeper theoretical understanding or systematic basis.
+  'habituation' without a deeper theoretical understanding or systematic basis. An empirical
+  science, with the modern meaning of the word, would not be an *emperia* for sciences are rooted in
+  a systematic framework, even though the theories are suggested and tested by experiment.
 * *eudaimonia* (noun): happiness. Literally good spirit. This is what all Greeks would aim for. But
   they would differ regarding the nature of *eudaimonia*. To Socrates, *eudaimonia* is not simply a
   matter of gaining pleasure or gratification. Rather, it is that which attends virtue, by aligning

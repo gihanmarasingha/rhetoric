@@ -1,13 +1,17 @@
 ---
 title: "Notes on Plato's *Gorgias*"
 subtitle: "Based on the translation by Robin Waterfield"
+toc: true
+toc-depth: 1
 colorlinks: true
 author: "Gihan Marasingha"
 date: "December 2024"
 ---
 
-*Gorgias* is a dialogue (or series thereof) between Socrates and the sophists/rhetoricians Gorgias,
-Polus, and Callicles.  It examines the nature of rhetoric, happiness, virtue, good, and morality.
+# Overview
+
+*Gorgias* is a dialogue between Socrates and the sophists/rhetoricians Gorgias, Polus, and
+Callicles.  It examines the nature of rhetoric, happiness, virtue, good, and morality.
 
 In broad terms, made more precise in the dialogue, rhetoric is the art of speaking persuasively.
 Sophists were itinerant teachers who instructed powerful young men, for a fee, on topics such as
@@ -56,7 +60,7 @@ Socrates uses premises *q* and *r* to prove the negation of *p*. Since Polus agr
 he cannot believe also in *p*. In fact, Socrates convinces Polus to reject his prior belief in *p*
 to give the new set $\{\text{not p}, q, r\}$ of beliefs.
 
-## Socrates questions Gorgias to determine what rhetoric is
+# Dialogue with Gorgias
 
 The first dialogue (447--460) is between Socrates and the Sicilian rhetorician and sophist Gorgias.
 Socrates probes Gorgias to determine what area of expertise and what province is the concern of
@@ -68,6 +72,7 @@ its practitioners thus understand the province of rhetoric, *r* the province of 
 and wrong (morality), *s* anyone who understands morality must be moral and must act morally.
 Clearly *q*, *r*, and *s* contradict *p*.
 
+## Socrates questions Gorgias to determine what rhetoric is
 
 Socrates and Chaerephon have arrived late to a house where Gorgias has been speaking. They begin
 speaking with acquaintances Callicles and Polus regarding what is Gorgias' "particular branch of
@@ -138,7 +143,7 @@ Gorgias' prior admission that rhetoricians have expertise in morality, to infer 
 must be moral and therefore must behave morally. But this contradicts Gorgias' earlier assertion
 that rhetoricians can behave immorally.
 
-## Rhetoric as a branch of flattery
+# Dialogue with Polus
 
 Having defeated Gorgias, Socrates continues his dialogue with Gorgias' young student Polus. In this
 dialogue, he begins to show his own thoughts about rhetoric, describing it as a branch of flattery,
@@ -148,6 +153,8 @@ observes that rhetoricians, like dictators can have whomever they want put to de
 their property. They do what they think it's best for them to do. However, such things are not
 always good (for the agent). Since we can only be said to want that which is good for us,
 rhetoricians do not do what they want.
+
+## Rhetoric as a branch of flattery
 
 Polus (461b) begins by upbraiding Socrates for tricking Gorgias into making a claim (that a
 rhetorician is an expert in morality and teaches it to his pupils) which led to a contradiction. He
@@ -194,7 +201,64 @@ Of course, this still may not be in harmony with Socrates' idea that a *tekhne* 
 (*to agathon*) as its aim. If cooking has no theory for how its methods produce the good, then it is
 not a *tekhne*.
 
-## Glossary of Greek terms
+## Doing what one wants
+
+Polus is unhappy (466a--b) with this characterisation of rhetoric. But he misses Socrates' point. He
+asks whether, given that rhetoric is flattery, the people have a low opinion of rhetoricians. How
+can this be, he argues, since rhetoricians are "the most powerful members of their communities".
+
+For the remainder of the dialogue, Socrates refutes this claim. He begins with "No, not if you
+believe power is a good thing for its possessor," which could equally be translated as "No, if you
+mean power in the sense of something good for him who has it." It remains to demonstrate that
+whatever power rhetoricians may *think* they have, it isn't good (*agathon*) for them and is
+therefore not power. To do so, Socrates embarks on a discussion of what it means for an activity to
+be good for oneself.
+
+Before this, Polus attempts to counter by asking, rhetorically, "Don't [rhetoricians] resemble
+dictators in that they can execute anyone they want, and confiscate a person's property and then
+banish that person from their community if it seems best?"
+
+Polus makes no distinction between "anyone they want" (*hon an boulontai*) and "whomever it seems
+best to them" (*hon an doke autois*) when determining who to punish! But this distinction between
+"they want" and "seems best to them" is of crucial importance in Socrates argument.
+
+This response of Polus is befuddling to Socrates. He states Polus is actually asking two questions.
+I believe that there is one implicit question and one explicit question with two parts. The implicit
+question relates to Polus', immediately preceding, claim that rhetoricians are the most powerful. By
+bringing up the question of whether rhetoricians have the ability to do whatever seems best to them,
+he is implicitly asking whether this justifies him claim. Explicitly, he asks about the
+rhetoricians' and dictators' ability to punish people. Though they have the ability to punish
+whomever *it seems best for them* to punish, Socrates will argue that this is not the same as
+punishing who *they want* to punish.
+
+To push Polus on this point, Socrates solicits his agreement that if a person without intellect
+(*nous*) does whatever he thinks it's best for him to do, he does not necessarily do what is good
+for him. He has now cornered Polus into proving that rhetoricians have *nous*. 
+
+It may seem, on reading the dialogue, that rationality makes no further appearance in Socrates'
+argument. But, to Socrates and Plato, discerning what is good is a function of *nous*. 
+
+**I NEED TO COMPLETE THIS. END WITH 468e, BY WHICH TIME SOCRATES HAS SHOWN IT'S POSSIBLE FOR
+SOMEONE TO DO WHAT THEY THINK IT'S BEST TO DO BUT NOT TO BE DOING WHAT THEY WANT TO DO**
+
+Statements Polus makes or agrees to:
+
+* Rhetoricians are the most powerful members of their communities.
+* Having a great deal of power is a good thing for its possessor.
+* A rhetorician can punish whomever it seems best to them to punish.
+* It is not good for an person without intellect (nous) to do whatever he thinks it's best for him
+  to do. 
+* When a person performs an action they do not usually *want* whatever it is they are doing, rather
+  they want that which it is a means toward.
+* When we do indifferent (neither good nor bad things) we do them for the sake of attaining the
+  good.
+* If a person does what he thinks it's best for him to do and that thing is actually bad for him
+  (even unknowingly), then he cannot be said to be doing what he wants to do.
+
+
+
+
+# Glossary of Greek terms
 
 * *agathos* (adj): good. As with the English word 'good', *agathos* can denote the quality of
   possessing moral good, usefulness, or excellence, that is, of possessing *arete*. It can be used
@@ -210,5 +274,15 @@ not a *tekhne*.
   they would differ regarding the nature of *eudaimonia*. To Socrates, *eudaimonia* is not simply a
   matter of gaining pleasure or gratification. Rather, it is that which attends virtue, by aligning
   ones life with the good. 
-* *psyche* (noun): mind and soul. 
+* *nous* (nous): mind. In particular, this refers to the rational aspect of the psyche. It is the
+  faculty that enables individuals to grasp abstract truths, engage in philosophical reasoning, and
+  discern what is genuinely good.
+* *psyche* (noun): soul/mind. Not quite the same as our modern notion of soul. Its meaning changed
+  over time. In Plato, the psyche has three parts: the rational part (nous); the spirited part
+  associated with emotions, courage, and willpower; and the appetitive part, concerned with basic
+  needs and desires such as hunger and thirst.
 
+# Resources
+
+* [Ancient Greek Translator at Polytranslator](https://polytranslator.com/ancient-greek/)
+* [Gorgias text and translation at the Perseus digital library](http://www.perseus.tufts.edu/hopper/text?doc=Plat.+Gorg.)
